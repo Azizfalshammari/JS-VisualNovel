@@ -10,7 +10,7 @@
 }
 
 body {
-  
+  background-color: black;
   font-family: "Arial", sans-serif;
   font-size: 22px;
   color: var(--text-color);
